@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(239, 226, 227);
+}
+.container {
+    width: 500px;
+    font-family: monospace,Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.page-title {
+    color: rgb(8, 12, 12);
+    text-transform: uppercase;
+}
+
+.content {
+    background-color: rgb(240, 255, 253);
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5)
+}
+
+img {
+    width: 500px;
+}
+
+.list-of-favorite {
+    list-style-type: none;
+    text-transform: capitalize;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(8, 8, 8); 
+    text-decoration: none; 
+}
+
+a:hover {
+    font-weight: bold;
+    color: rgb(205, 82, 91);
+    text-decoration: none;
+}

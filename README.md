@@ -1,2 +1,2 @@
 # odin-recipes
-A basic recipe website consisting of index page and links to recipes. This website shows the basics of html learned from Odin Project.
+A basic recipe website consisting of index page and links to recipes. Alongside my improved HTML skills, I've added CSS to enhance the visual appeal of the pages. I now have a better understanding of styling elements like headers, paragraphs, images, and links. I'm excited to continue exploring web development and further improve my skills.
